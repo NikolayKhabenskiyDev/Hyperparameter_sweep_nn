@@ -1,0 +1,3 @@
+epochs:	300
+mean error (train):3.87442e-01
+mean error (test):3.67390e-01
